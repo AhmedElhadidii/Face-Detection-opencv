@@ -20,7 +20,7 @@ while True:
     cv2.imshow('face detection app python', frame)
 #refresh every 1 milisecond
     cv2.waitKey(101111)
-
+#to exit press Q 
     if key == 81 or key == 113:
         break
 
